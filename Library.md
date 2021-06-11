@@ -11,7 +11,7 @@ List of Data Structures
 
 Stack
 -------------
-###### ADT
+#### ADT
 * 한 쪽 끝에서만 자료를 넣고 뺄 수 있는 자료구조(Last In First Out)
 * 다양한 type의 데이터를 다루기 위해 template을 사용
 
