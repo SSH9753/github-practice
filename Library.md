@@ -14,10 +14,12 @@ Stack
 ADT
 * 한 쪽 끝에서만 자료를 넣고 뺄 수 있는 자료구조(Last In First Out)
 * 다양한 type의 데이터를 다루기 위해 template을 사용
+
 Member Variables
 * int _capacity : Stack의 용량을 저장하는 변수
 * int _top : Stack에 저장되있는 데이터중 가장 위의 위치를 나타내는 변수
 * T *stack : Stack의 데이터를 저장하기 위한 포인터 변수
+
 Method
 * Stack(int size) : 생성자. 입력받은 size의 크기의 Stack을 생성(동적할당 받음)
 * ~Stack() : 소멸자. 할당받은 메모리를 해제시킨다.
