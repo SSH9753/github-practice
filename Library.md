@@ -1,15 +1,15 @@
-#### Library
+Library
 ========
-### Desing focus
+Desing focus
 -------------
-### List of Data Structures
+List of Data Structures
 -------------
 * Stack
 * Queue(Circle)
 * DeQue(Circle)
 
 
-## Stack
+Stack
 -------------
 # ADT
 * 한 쪽 끝에서만 자료를 넣고 뺄 수 있는 자료구조(Last In First Out)
@@ -29,7 +29,7 @@
 * void print() : 현재 Stack에 저장되어 있는 데이터들을 출력
 * void stackFull() : Stack의 용량만큼 데이터가 가득 찰 경우 용량을 2배 늘림
 
-## Queue(Circle)
+Queue(Circle)
 -------------
 # ADT
 * 한쪽 끝(rear)에서는 삽입이 이뤄지고 다른 한쪽끝(front)에서는 삭제가 이뤄지는 자료구조(First In First Out)
@@ -52,7 +52,7 @@
 * void print() : 현재 Queue에 저장되어 있는 데이터들을 출력
 
 
-## Deque(Circle)
+Deque(Circle)
 -------------
 # ADT
 * 양쪽 끝에서 삽입과 삭제가 모두 가능한 자료구조
